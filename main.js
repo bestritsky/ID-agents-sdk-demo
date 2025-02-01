@@ -5,10 +5,10 @@ import './style.css'
 import * as sdk from "@d-id/client-sdk"
 
 // 2. Paste the `data-agent-id' in the 'agentId' variable
-let agentId = ""
+let agentId = "agt_MwgQeia7"
 
 // 3. Paste the 'data-client-key' in the 'auth.clientKey' variable
-let auth = { type: 'key', clientKey: "" };
+let auth = { type: 'key', clientKey: "Z29vZ2xlLW9hdXRoMnwxMDEyNTU3NjY5Mjc5NTc2NzE3MjU6UGhfYkpCdUNNZ1BwaGJFek5oSW1z" };
 
 // HTML Variables declaration
 let videoElement = document.querySelector("#videoElement")
